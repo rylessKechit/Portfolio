@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/0923ee644c97a87d70269aa80a6f1e79?family=The+Historia+Demo);
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 /* --- Start GLOBAL --- */
 
@@ -137,7 +137,7 @@ li {
 }
 
 .nav-link {
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Fredoka One', cursive;
     font-size: 5rem;
     padding: 1rem;
 }
@@ -214,7 +214,7 @@ li {
 
 .landing-text h1 {
     font-size: 20rem;
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Fredoka One', cursive;
     background: linear-gradient(to top, #66FCF1, #fd57bf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
